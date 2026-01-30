@@ -76,6 +76,4 @@ biblioteca-postgresql/
 │ ├── regras_de_negocio.md
 │ └── dicionario_de_dados.md
 │
-├── .gitignore
-├── LICENSE
 └── README.md
