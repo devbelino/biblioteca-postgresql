@@ -42,6 +42,7 @@ Os relacionamentos possuem cardinalidades bem definidas, garantindo coerência c
 - PostgreSQL
 - PL/pgSQL
 - BRModelo
+- Java
 - Git e GitHub
 
 ---
